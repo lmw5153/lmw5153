@@ -1,3 +1,5 @@
 # Lee_minwoo :)
 ---
-## 이력
+## EDUCATION
+- Chonbuk National University
+
