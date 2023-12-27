@@ -1,4 +1,4 @@
-### Hi there 👋
+### Lee_minwoo 👋
 
 <!--
 **lmw5153/lmw5153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
