@@ -1,4 +1,7 @@
 # Lee_minwoo :)
+### extra curricular activitys
+- student council activities (2021.3~2022.11)
+- Coding Academic Club Students' Association (2021.9~2021.12)
 ### skill
 - Python, R Data Analysis
 - DL, ML Engineering
