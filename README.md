@@ -1,5 +1,5 @@
 ### Lee_minwoo 👋
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=본인ID)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **lmw5153/lmw5153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![trophy](https://github-profile-trophy.vercel.app/?username=본인ID)](https://github.com/ryo-ma/github-profile-trophy)
