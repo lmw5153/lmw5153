@@ -12,7 +12,7 @@
 - 2023-12 ~ 2023-02 The second LG AImers Competiton in Top 15%
   - 스마트 공장 제품 품질 상태 분류 AI 온라인 해커톤 : https://www.dacon.io/competitions/official/236055/leaderboard
 - 2023-06 ~ 2023-08 Undergraduate research students in Machine learning seminars
-  - 
+  - d
 - 2024-02 Dacon E-commerce Customer Segmentation Analysis Idea Competition in Top 15%
   - 이커머스 고객 세분화 분석 아이디어 경진대회 : https://www.dacon.io/competitions/official/236222/leaderboard
 - 2024-06 ~ 전북청년경진대회 현안 과제 발굴
