@@ -11,7 +11,7 @@
 - 2023-01 ~ 2023-02 Dacon DACrew The 4th generation of supporters completion
   - https://github.com/lmw5153/dacrew
 - 2023-06 ~ 2023-08 Undergraduate research students in Machine learning seminars
-  - d
+  - https://github.com/lmw5153/ML_seminars/blob/main/README.md
 
 
 ### Competiton
