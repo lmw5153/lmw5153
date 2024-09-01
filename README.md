@@ -18,5 +18,5 @@
 - 2022-12 ~ 2023-02 The second LG AImers Competiton in Top 15%
   - https://github.com/lmw5153/lg_aimers2/blob/main/README.md
 - 2024-02 Dacon E-commerce Customer Segmentation Analysis Idea Competition in Top 15%
-  - https://www.dacon.io/competitions/official/236222/leaderboard
+  - https://github.com/lmw5153/normal_task/blob/main/_posts/dacon/readme.md
 - 2024-06 ~ 전북청년경진대회 현안 과제 발굴
