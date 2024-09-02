@@ -7,6 +7,11 @@
 - 2023-09 ~ Master's program at Chonbuk National University 
 
 
+### Research activities
+- Time series Transfer learning 
+- Solar Radiation Prediction using N-BEATs
+
+
 ### Activity 
 - 2023-01 ~ 2023-02 Dacon DACrew The 4th generation of supporters completion
   - https://github.com/lmw5153/dacrew
