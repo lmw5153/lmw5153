@@ -1,4 +1,4 @@
-# Lee_minwoo :)
+# Lee-MinWoo :)
 
 ### Education
 - 2017-03 ~ 2023-06 Chonbuk National University (91.2,GPA 4.5)
