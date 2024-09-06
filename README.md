@@ -10,6 +10,7 @@
 ### `-` Research activities
 - Time series Transfer learning 
 - Solar Radiation Prediction using N-BEATs
+  - https://github.com/lmw5153/TASK_NBEATs_solar/tree/main
 
 
 ### `-` Activity 
