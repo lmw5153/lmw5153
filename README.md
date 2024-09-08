@@ -11,6 +11,7 @@
 - Time series Transfer learning 
 - Solar Radiation Univariate Prediction using N-BEATs
   - https://github.com/lmw5153/TASK_NBEATs_solar/tree/main
+- Classification of tumor recurrence images
 
 
 ### `-` Activity 
