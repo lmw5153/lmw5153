@@ -11,8 +11,8 @@
 - Time series Transfer learning 
 - Solar Radiation Univariate Prediction using N-BEATs
   - https://github.com/lmw5153/TASK_NBEATs_solar/tree/main
-- Classification of tumor recurrence images
-
+- Classification deep learning of tumor recurrence images
+  - https://github.com/lmw5153/TASK_image_cancer/tree/main
 
 ### `-` Activity 
 - 2023-01 ~ 2023-02 Dacon DACrew The 4th generation of supporters completion
