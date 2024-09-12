@@ -9,7 +9,7 @@
 
 ### `-` Research activities
 - Time series Transfer learning 
-- Solar Radiation Univariate Prediction using N-BEATs
+- Univariate Prediction of Solar Radiation Data using N-BEATs
   - https://github.com/lmw5153/TASK_NBEATs_solar/tree/main
 - Classification deep learning of tumor recurrence images
   - https://github.com/lmw5153/TASK_image_cancer/tree/main
