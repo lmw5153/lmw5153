@@ -20,6 +20,8 @@
   - https://github.com/lmw5153/dacrew
 - 2023-06 ~ 2023-08 Undergraduate research students in Machine learning seminars
   - https://github.com/lmw5153/ML_seminars/blob/main/README.md
+- 2024-09 ~ Statistical Seminar on Time Series
+  - https://github.com/lmw5153/TS_semina
 
 
 ### `-` Competiton
