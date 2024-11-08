@@ -22,6 +22,9 @@
   - https://github.com/lmw5153/ML_seminars/blob/main/README.md
 - 2024-09 ~ Statistical Seminar on Time Series
   - https://github.com/lmw5153/TS_semina
+- 2024-11-22 Poster Session Presented in the Korean Statistical Society
+  - Univariate Time series forecasting using N-BEATs
+
 
 
 ### `-` Competiton
