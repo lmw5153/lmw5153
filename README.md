@@ -32,4 +32,4 @@
   - https://github.com/lmw5153/lg_aimers2/blob/main/README.md
 - 2024/02 Dacon E-commerce Customer Segmentation Analysis Idea Competition in Top 15%
   - https://github.com/lmw5153/normal_task/blob/main/_posts/dacon/readme.md
-- 2024/06 - 2024/12 전북청년경진대회 현안 과제 발굴
+- 2024/06 - 2024/12 제 2회 전북청년경진대회 군산시장상 수상
