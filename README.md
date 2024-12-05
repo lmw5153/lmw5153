@@ -33,3 +33,4 @@
 - 2024/02 Dacon E-commerce Customer Segmentation Analysis Idea Competition in Top 15%
   - https://github.com/lmw5153/normal_task/blob/main/_posts/dacon/readme.md
 - 2024/06 - 2024/12 제 2회 전북청년경진대회 군산시장상 수상
+  - https://github.com/lmw5153/TASK_jeonbuk/blob/main/README.md
