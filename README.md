@@ -2,8 +2,6 @@
 
 ### `-` Education
 - 2017/03 - 2023/06 Chonbuk National University (91.2,GPA 4.5)
-  - the main major : Department of Korean Language and Literature
-  - double major : Science Convergence Big Data Department
 - 2023/09 - Master's program at Chonbuk National University 
 
 
