@@ -2,7 +2,7 @@
 
 ### `-` Education
 - 2017/03 - 2023/06 Chonbuk National University (91.2,GPA 4.5)
-- 2023/09 - Master's program at Chonbuk National University 
+- 2023/09 - Master's program at Jeonbuk National University 
 
 
 ### `-` Research activities
