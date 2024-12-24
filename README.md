@@ -12,6 +12,7 @@
   - https://github.com/lmw5153/TASK_NBEATs_solar/tree/main
 - Classification deep learning of tumor recurrence images
   - https://github.com/lmw5153/TASK_image_cancer/tree/main
+- A study on Model Review of Anomaly Detection Based on Trade Time Series Data
 
 ### `-` Activity 
 - 2023/01 - 2023/02 Dacon DACrew The 4th generation of supporters completion
