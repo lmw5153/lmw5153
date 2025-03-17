@@ -1,9 +1,5 @@
 # Lee-minwoo :)
 
-### `-` Education
-- 2017/03 - 2023/06 Chonbuk National University (91.2,GPA 4.5)
-- 2023/09 - Master's program at Jeonbuk National University 
-
 
 ### `-` Research activities
 - Transfer learning based on N-Beats in forecasting various time series
@@ -23,7 +19,6 @@
   - https://github.com/lmw5153/TS_semina
 - 2024/11/22 Univariate Time series forecasting using N-BEATs, Poster Session in the Korean Statistical Society
   - https://github.com/lmw5153/Task_poster 
-
 
 
 ### `-` Competiton
