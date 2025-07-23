@@ -10,39 +10,38 @@
 - 전북대학교 통계학과 석사
 ---
 ### 경력 사항
-- 전북 임상연구센터 소속, 전북의대 신경과 통계 연구원
+- 2025.07-재직중
+  - 전북 임상연구센터 소속, 전북의대 신경과 통계 연구원
 
 ---
 ### 핵심 역량
 - 딥러닝 및 머신러닝 모형 구현 / 데이터 전처리 / 통계 분석 / 파이썬 / 예측
 
 ---
-### 
+### 논문 실적
+- Univariate Prediction of Solar Radiation Data using N-BEATs, kjas, 2025
+- Deep learning-based prediction of recurrence in HER2-low breast
+cancer: A comparative study using MRI-alone and combined
+clinicopathologic-MRI models, diagnostics, 2025
+- Transfer learning based on N-Beats in forecasting various time series, ieee access, 재제출
 
+---
+### 학술 및 연구 활동
+- 학부연구생 
+- Univariate Time series forecasting using N-BEATs, 포스터 발표, 한국통계학회
+- Deep Learning-based Neural Granger Causality for Solar Radiation Data, 포스터 발표, 한국통계학회
+- 이상치 모형 적합성 검토 연구 과제 연구원
 
-### `-` Research activities
-- Transfer learning based on N-Beats in forecasting various time series
-  - https://github.com/lmw5153/TASK_transfer_time_series
-- Univariate Prediction of Solar Radiation Data using N-BEATs
-  - https://github.com/lmw5153/TASK_NBEATs_solar/tree/main
-- Classification deep learning of tumor recurrence images
-  - https://github.com/lmw5153/TASK_image_cancer/tree/main
+---
+### 프로젝트 경험
+- PBL 컨텐츠 제작 데이크루 서포터즈 4기 수료
+- LGAimers 2기 교육 및 경진대회 수료
+- 제 2회 전북청년경진대회 빅데이터경진대회 군산시장상 수상
 
-### `-` Activity 
-- 2023/01 - 2023/02 Dacon DACrew The 4th generation of supporters completion
-  - https://github.com/lmw5153/dacrew
-- 2023/06 - 2023/08 Statistical Seminar on Machine learning
-  - https://github.com/lmw5153/ML_seminars/blob/main/README.md
-- 2024/09 - 2024/12 Statistical Seminar on Time Series
-  - https://github.com/lmw5153/TS_semina
-- 2024/11/22 Univariate Time series forecasting using N-BEATs, Poster Session in the Korean Statistical Society
-  - https://github.com/lmw5153/Task_poster 
-
-
-### `-` Competiton
-- 2022/12 - 2023/02 The second LG AImers Competiton in Top 15%
-  - https://github.com/lmw5153/lg_aimers2/blob/main/README.md
-- 2024/02 Dacon E-commerce Customer Segmentation Analysis Idea Competition in Top 15%
-  - https://github.com/lmw5153/normal_task/blob/main/_posts/dacon/readme.md
-- 2024/06 - 2024/12 제 2회 전북청년경진대회 군산시장상 수상
-  - https://github.com/lmw5153/TASK_jeonbuk/blob/main/README.md
+---
+### 자격 사항
+- 컴퓨터활용능력 2급
+-
+-
+---
+### 기타 사항
