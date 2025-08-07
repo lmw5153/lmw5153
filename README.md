@@ -9,6 +9,7 @@
   - 전북대학교 국어국문학과, 과학융합빅데이터학과 학사
 - 2023.06-2025.08
   - 전북대학교 통계학과 석사
+    - 학위논문 Transfer Learning Using Hybrid N-BEATS and MLPs for Electricity Demand Forecasting
 
 ---
 ### 경력 사항
