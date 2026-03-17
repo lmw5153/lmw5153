@@ -21,11 +21,11 @@
 
 ---
 ### 논문 실적
-- Univariate Prediction of Solar Radiation Data using N-BEATs, kjas, 2025
+- Univariate Prediction of Solar Radiation Data using N-BEATs, 한국응용통계학회, 1저자, 2025
 - Deep learning-based prediction of recurrence in HER2-low breast
 cancer: A comparative study using MRI-alone and combined
-clinicopathologic-MRI models, diagnostics, 2025
-- Transfer learning based on N-Beats in forecasting various time series, ieee access, 재제출
+clinicopathologic-MRI models, diagnostics, 공동1저자, 2025
+- Transfer learning based on N-Beats in forecasting various time series, ieee access, 1저자, 2026
 
 ---
 ### 학술 및 연구 활동
