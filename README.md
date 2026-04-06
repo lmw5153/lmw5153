@@ -7,8 +7,7 @@
 - 2017.03-2023.08
   - 전북대학교 국어국문학과, 통계학과 (과학융합빅데이터) 학사
 - 2023.09-2025.08
-  - 전북대학교 통계학과 석사
-    - 학위논문 Transfer Learning Using Hybrid N-BEATS and MLPs for Electricity Demand Forecasting
+  - 전북대학교 통계학과 석사 졸업
 
 ---
 ### 경력 사항
@@ -26,16 +25,13 @@
 cancer: A comparative study using MRI-alone and combined
 clinicopathologic-MRI models, diagnostics, 공동1저자, 2025
 - Transfer learning based on N-Beats in forecasting various time series, ieee access, 1저자, 2026
-
+- Video-oculographic saccadic fatigability differentiates myasthenia gravis from ocular motor cranial nerve palsy, 공동 저자, submission
 ---
-### 학술 및 연구 활동
-- 2023.06 - 2023.08 머신러닝 구현 학부연구생 
+
+### 연구 및 프로젝트 활동
 - Univariate Time series forecasting using N-BEATs, 포스터 발표, 한국통계학회
 - Deep Learning-based Neural Granger Causality for Solar Radiation Data, 포스터 발표, 한국통계학회
-- 이상치 모형 적합성 검토 연구 과제 연구원
-
----
-### 프로젝트 경험
+- 이상치 모형 적합성 검토 연구 과제 연구원 수행
 - PBL 컨텐츠 제작 데이크루 서포터즈 4기 수료
 - LGAimers 2기 교육 및 경진대회 수료
 - 제 2회 전북청년경진대회 빅데이터경진대회 군산시장상 수상
