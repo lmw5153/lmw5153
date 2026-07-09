@@ -11,11 +11,13 @@
 
 ---
 ### 경력 사항
-- 2025.07-재직중, 통계 분석
+- 2025.07-2026.06
   - 전북대병원 신경과 과제 연구원
     - 인공지능 기반 안구운동 바이오마커를 활용한 중증근무력증 조기 진단 및 감별 모델 개발
     - 3D 자세추정기법(3D Pose estimation)과 스마트 인솔(Insole)을 활용한 AI 기반 보행 디지털 바이오마커 발굴을 위한 한국과 영국 공동 스마트 임상시험
-
+- 2026.06-재직중
+  - Begas 데이터 분석 컨설팀 전임
+      -LG 에너지솔루션 긴급 대응 선별 및 자동화 프로젝트
 ---
 ### 핵심 역량
 - 딥러닝 및 머신러닝 / 데이터 전처리 / 통계 분석 / 파이썬 / 예측
@@ -27,7 +29,7 @@
 cancer: A comparative study using MRI-alone and combined
 clinicopathologic-MRI models, diagnostics, 공동1저자, 2025
 - Transfer learning based on N-Beats in forecasting various time series, ieee access, 1저자, 2026
-- Video-oculographic saccadic fatigability differentiates myasthenia gravis from ocular motor cranial nerve palsy, 공동 저자, submission
+- Video-oculographic saccadic fatigability differentiates myasthenia gravis from ocular motor cranial nerve palsy, european journal of neurology, 공동 저자, 2026
 ---
 
 ### 연구 및 프로젝트 활동
